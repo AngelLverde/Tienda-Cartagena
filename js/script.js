@@ -14,7 +14,10 @@ function add(product,price) {
     document.getElementById("checkout").innerHTML = `Pagar $${total}`
 
 }
-alert(products.join(", \n"));
-function pagar() {
 
+
+function pagar() {
+    alert(products.join(", \n"));
 }
+
+
