@@ -13,19 +13,13 @@ button {
 
 .page-nav {
     border: 1px solid black;
-   background-color: rgb(29, 165, 165);
-    position: relative;
+    background-color: rgb(88, 153, 153);
+    padding: 50px;
+   display: flex;
+   justify-content: space-evenly;
+
 }
 
-.page-nav h1 {
-    
-    margin: 20px;
-    margin-left: 15px;
-    text-align: center;
-}
-h1 {
-    text-align: center;
-}
 
 .button-checkout {
 
@@ -35,12 +29,13 @@ h1 {
     color: black;
     border: 2px solid green;
     position: relative;
-   margin-left: 90%;
+    margin-left: 5px;
     bottom: 10px;
 
 }
+
 .button-checkout:hover {
-    background-color: green;
+    background-color: rgb(63, 63, 133);
     color: white;
 }
 
@@ -63,9 +58,9 @@ h1 {
 }
 
 .product-container img {
-   
+
     width: 300px;
-    
+
 }
 
 .button-add {

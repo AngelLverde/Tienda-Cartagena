@@ -1,5 +1,5 @@
-let nombreIngresado = prompt ("ingresa tu nombre");
-let ingresarMail = prompt ("Bienvenido a Cartagena "+nombreIngresado+" dejanos tu mail para recibir el newsletter");
+// let nombreIngresado = prompt ("ingresa tu nombre");
+// let ingresarMail = prompt ("Bienvenido a Cartagena "+nombreIngresado+" dejanos tu mail para recibir el newsletter");
 
 
 
